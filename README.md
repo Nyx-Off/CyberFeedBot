@@ -1,8 +1,7 @@
-# 🤖 CyberFeedBot
 
 <div align="center">
-
-[🚀 Installation](#installation) • [⚙️ Configuration](#configuration) • [📖 Documentation](#documentation) • [🤝 Contribution](#contribution)
+  
+# 🤖 CyberFeedBot
 
 </div>
 
