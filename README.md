@@ -26,7 +26,7 @@ CyberFeedBot est votre assistant de veille en cybersécurité. Il surveille auto
 | 🏭 CERT-FR SCADA | Systèmes industriels | Temps réel |
 | 🪟 Microsoft Security | Recherche & Défense | Quotidien |
 | 🎯 Microsoft Threat Hunting | Menaces & Détection | Quotidien |
-| 🌐 CSHub | Articles techniques | Quotidien |
+| 🕷️ Info-Stealer by HudsonRock | report - articles - technique | Quotidien |
 
 ## 🚀 Installation
 
